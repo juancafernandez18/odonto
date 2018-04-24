@@ -12,6 +12,8 @@ namespace odontologia
         {
             Console.WriteLine("hola mundo odonto");
             Console.ReadKey();
+            Console.WriteLine("hola mundo odonto");
+            Console.ReadKey();
         }
     }
 }
